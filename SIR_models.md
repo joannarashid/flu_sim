@@ -44,11 +44,20 @@ replications.
 The model below seeks to replicate the paper’s result.
 
 -inf.prob is the probability of infection for each interaction with
-infected agent -act.rate is set to n-1 to ensure each agent interacts in
-every simulation -rec.rate is a vector assigning the probability of
-recovery for each day in the length of infection -s.num is number of
+infected agent 
+
+-act.rate is set to n-1 to ensure each agent interacts in
+every simulation 
+
+-rec.rate is a vector assigning the probability of
+recovery for each day in the length of infection 
+
+-s.num is number of
 susceptible sgents set to n-1 -i.num is the number of initially infected
-agents -r.num is the number of initially recovered/immune agents
+agents 
+
+-r.num is the number of initially recovered/immune agents
+
 -n.steps is the amount of days in the simulation -nsteps is the number
 of days in eacj simulation -nsims is the number of simulations
 
