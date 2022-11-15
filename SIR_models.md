@@ -38,7 +38,8 @@ In the paper, Green Simulation of Pandemic Disease Propagation
 the following distribution of pandemic lengths after 1,000,000
 replications.
 
-See figure 8 <https://www.mdpi.com/2073-8994/11/4/580/htm>
+![](SIR_models_files/figure-gfm/wilson_fig_8.png)<!-- -->
+<https://www.mdpi.com/2073-8994/11/4/580/htm>
 
 The model below seeks to replicate the paper’s result.
 
