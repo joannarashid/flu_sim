@@ -1,5 +1,4 @@
-# flu_sim
-Utilizing the SIR Model to Simulate the Spread of an Epidemic: 
+# Utilizing the SIR Model to Simulate the Spread of an Epidemic: 
 An Agent-Based Modeling Approach 
 
 Group 135 - Thi Hoa Hien La, Joanna Rashid, Arnav Chandra Sarma
